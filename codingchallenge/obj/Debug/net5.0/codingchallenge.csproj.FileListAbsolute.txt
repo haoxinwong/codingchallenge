@@ -1,0 +1,16 @@
+C:\Users\WarSpite\source\repos\codingchallenge\codingchallenge\bin\Debug\net5.0\codingchallenge.exe
+C:\Users\WarSpite\source\repos\codingchallenge\codingchallenge\bin\Debug\net5.0\codingchallenge.deps.json
+C:\Users\WarSpite\source\repos\codingchallenge\codingchallenge\bin\Debug\net5.0\codingchallenge.runtimeconfig.json
+C:\Users\WarSpite\source\repos\codingchallenge\codingchallenge\bin\Debug\net5.0\codingchallenge.runtimeconfig.dev.json
+C:\Users\WarSpite\source\repos\codingchallenge\codingchallenge\bin\Debug\net5.0\codingchallenge.dll
+C:\Users\WarSpite\source\repos\codingchallenge\codingchallenge\bin\Debug\net5.0\ref\codingchallenge.dll
+C:\Users\WarSpite\source\repos\codingchallenge\codingchallenge\bin\Debug\net5.0\codingchallenge.pdb
+C:\Users\WarSpite\source\repos\codingchallenge\codingchallenge\obj\Debug\net5.0\codingchallenge.csproj.AssemblyReference.cache
+C:\Users\WarSpite\source\repos\codingchallenge\codingchallenge\obj\Debug\net5.0\codingchallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WarSpite\source\repos\codingchallenge\codingchallenge\obj\Debug\net5.0\codingchallenge.AssemblyInfoInputs.cache
+C:\Users\WarSpite\source\repos\codingchallenge\codingchallenge\obj\Debug\net5.0\codingchallenge.AssemblyInfo.cs
+C:\Users\WarSpite\source\repos\codingchallenge\codingchallenge\obj\Debug\net5.0\codingchallenge.csproj.CoreCompileInputs.cache
+C:\Users\WarSpite\source\repos\codingchallenge\codingchallenge\obj\Debug\net5.0\codingchallenge.dll
+C:\Users\WarSpite\source\repos\codingchallenge\codingchallenge\obj\Debug\net5.0\ref\codingchallenge.dll
+C:\Users\WarSpite\source\repos\codingchallenge\codingchallenge\obj\Debug\net5.0\codingchallenge.pdb
+C:\Users\WarSpite\source\repos\codingchallenge\codingchallenge\obj\Debug\net5.0\codingchallenge.genruntimeconfig.cache
