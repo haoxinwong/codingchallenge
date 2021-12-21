@@ -7,6 +7,10 @@
 
   <ItemGroup>
     <Compile Remove="DeadEnd.cs" />
+    <Compile Remove="HappyNumber.cs" />
+    <Compile Remove="IsDisarium.cs" />
+    <Compile Remove="MagicSquare.cs" />
+    <Compile Remove="pronic.cs" />
   </ItemGroup>
 
 </Project>
