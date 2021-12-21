@@ -6,7 +6,7 @@ namespace codingchallenge
     class DeadEnd
     {
 
-        public static long[] DeadEnd(long i)
+        public static long[] Deadend(long i)
         {
             if (i <= 10)
             {
@@ -56,15 +56,15 @@ namespace codingchallenge
             }
             return s;
         } 
-        static void Main(string[] args)
+       /* static void Main(string[] args)
         {
 
-            Console.WriteLine(tostring(DeadEnd(58)));
-            Console.WriteLine(tostring(DeadEnd(5)));
-            Console.WriteLine(tostring(DeadEnd(11)));
-            Console.WriteLine(tostring(DeadEnd(101)));
-            Console.WriteLine(tostring(DeadEnd(123456789)));
-        }
+            Console.WriteLine(tostring(Deadend(58)));
+            Console.WriteLine(tostring(Deadend(5)));
+            Console.WriteLine(tostring(Deadend(11)));
+            Console.WriteLine(tostring(Deadend(101)));
+            Console.WriteLine(tostring(Deadend(123456789)));
+        }*/
 
 
     }
