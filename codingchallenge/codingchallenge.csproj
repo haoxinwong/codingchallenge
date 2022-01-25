@@ -12,6 +12,7 @@
     <Compile Remove="IsDisarium.cs" />
     <Compile Remove="MagicSquare.cs" />
     <Compile Remove="pronic.cs" />
+    <Compile Remove="Qualified.cs" />
     <Compile Remove="SquarePrint.cs" />
   </ItemGroup>
 
